@@ -1,5 +1,7 @@
-import 'package:assignment/flash_screen.dart';
+
 import 'package:flutter/material.dart';
+
+import 'flash_screen.dart';
 
 void main() {
   runApp(const MyApp());
